@@ -12,7 +12,7 @@ using namespace std;
 int pta1003()
 {
 	int n;
-	scanf("%d", &n);
+	scanf_s("%d", &n);
 	string str;
 	int p = 0;//记录p位置
 	int t = 0;//记录t位置

@@ -69,5 +69,29 @@
     <ClCompile Include="pta1003.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pta1014.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1015.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1018.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1020.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -38,7 +38,7 @@ int pta1085()
 	{
 		cin >> id;
 		double score;
-		scanf("%lf", &score);
+		scanf_s("%lf", &score);
 		cin >> school;
 		for (int j = 0; j < school.length(); j++)
 		{
