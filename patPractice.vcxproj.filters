@@ -93,5 +93,11 @@
     <ClCompile Include="pta1030.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pta1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
