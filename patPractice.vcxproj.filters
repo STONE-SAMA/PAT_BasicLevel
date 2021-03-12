@@ -120,5 +120,14 @@
     <ClCompile Include="pta1054.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pta1055.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1058.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1060.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

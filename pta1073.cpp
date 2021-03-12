@@ -6,6 +6,8 @@ using namespace std;
 
 //1073 多选题常见计分法 
 
+//未完成
+
 struct Question
 {
 	int point;//分值

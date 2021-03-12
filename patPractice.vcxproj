@@ -140,6 +140,9 @@
     <ClCompile Include="pta1051.cpp" />
     <ClCompile Include="pta1052.cpp" />
     <ClCompile Include="pta1053.cpp" />
+    <ClCompile Include="pta1055.cpp" />
+    <ClCompile Include="pta1058.cpp" />
+    <ClCompile Include="pta1060.cpp" />
     <ClCompile Include="pta1067.cpp" />
     <ClCompile Include="pta1068.cpp" />
     <ClCompile Include="pta1069.cpp" />
