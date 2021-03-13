@@ -16,9 +16,9 @@ int pta1054()
 		char str[50];
 		cin >> str;
 		double temp = 0.0;
-		sscanf(str, "%lf", &temp);
+		sscanf_s(str, "%lf", &temp);
 		char arr[50];
-		sprintf(arr, "%.2f", temp);
+		sprintf_s(arr, "%.2f", temp);
 		int flag = 0;
 		for (int j = 0; j < strlen(str); j++)
 		{

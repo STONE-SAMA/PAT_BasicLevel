@@ -1,2 +1,4 @@
-﻿  pta1014.cpp
-  patPractice.vcxproj -> D:\C++_workspace\patPractice\Debug\patPractice.exe
+﻿pta1055.obj : error LNK2005: "bool __cdecl cmp(struct node,struct node)" (?cmp@@YA_NUnode@@0@Z) 已经在 pta1015.obj 中定义
+pta1060.obj : error LNK2005: "bool __cdecl cmp(int,int)" (?cmp@@YA_NHH@Z) 已经在 pta1050.obj 中定义
+pta1085.obj : error LNK2005: "bool __cdecl cmp(struct node,struct node)" (?cmp@@YA_NUnode@@0@Z) 已经在 pta1015.obj 中定义
+D:\C++_workspace\patPractice\Debug\patPractice.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

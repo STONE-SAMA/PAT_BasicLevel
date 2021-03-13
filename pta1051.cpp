@@ -9,7 +9,7 @@ using namespace std;
 int pta1051()
 {
 	double R1, R2, P1, P2, R, P, A, B;
-	scanf("%lf%lf%lf%lf", &R1, &P1, &R2, &P2);
+	scanf_s("%lf%lf%lf%lf", &R1, &P1, &R2, &P2);
 	R = R1 * R2;
 	P = P1 + P2;
 	A = R * cos(P);

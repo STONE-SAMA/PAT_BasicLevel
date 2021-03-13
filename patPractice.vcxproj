@@ -143,6 +143,8 @@
     <ClCompile Include="pta1055.cpp" />
     <ClCompile Include="pta1058.cpp" />
     <ClCompile Include="pta1060.cpp" />
+    <ClCompile Include="pta1062.cpp" />
+    <ClCompile Include="pta1065.cpp" />
     <ClCompile Include="pta1067.cpp" />
     <ClCompile Include="pta1068.cpp" />
     <ClCompile Include="pta1069.cpp" />
@@ -161,6 +163,9 @@
     <ClCompile Include="pta1084.cpp" />
     <ClCompile Include="pta1085.cpp" />
     <ClCompile Include="pta1054.cpp" />
+    <ClCompile Include="pta1086.cpp" />
+    <ClCompile Include="pta1087.cpp" />
+    <ClCompile Include="pta1088.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

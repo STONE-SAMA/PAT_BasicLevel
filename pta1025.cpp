@@ -15,12 +15,12 @@ struct node
 int pta1025()
 {
 	int addre, n, k;//addre为第 1 个结点的地址
-	scanf("%d%d%d", &addre, &n, &k);//第一行输入
+	scanf_s("%d%d%d", &addre, &n, &k);//第一行输入
 	int address;//暂存输入的地址
 	for (int i = 0; i < n; i++) {
-		scanf("%d", &address);//当前结点地址
+		scanf_s("%d", &address);//当前结点地址
 		//当前结点数据及下一个结点地址
-		scanf("%d%d", &Link_node[address].data, &Link_node[address].next);
+		scanf_s("%d%d", &Link_node[address].data, &Link_node[address].next);
 	}
 	int addre_start[2], addre_end;
 	addre_start[0] = addre;
