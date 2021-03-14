@@ -1,4 +1,27 @@
-﻿pta1055.obj : error LNK2005: "bool __cdecl cmp(struct node,struct node)" (?cmp@@YA_NUnode@@0@Z) 已经在 pta1015.obj 中定义
-pta1060.obj : error LNK2005: "bool __cdecl cmp(int,int)" (?cmp@@YA_NHH@Z) 已经在 pta1050.obj 中定义
-pta1085.obj : error LNK2005: "bool __cdecl cmp(struct node,struct node)" (?cmp@@YA_NUnode@@0@Z) 已经在 pta1015.obj 中定义
-D:\C++_workspace\patPractice\Debug\patPractice.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿  pta1062.cpp
+D:\C++_workspace\patPractice\pta1062.cpp(22,20): warning C4018: “<”: 有符号/无符号不匹配
+  pta1065.cpp
+  pta1070.cpp
+  pta1086.cpp
+  pta1087.cpp
+  pta1088.cpp
+  pta1089.cpp
+  pta1090.cpp
+D:\C++_workspace\patPractice\pta1062.cpp(33,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++_workspace\patPractice\pta1090.cpp(26,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++_workspace\patPractice\pta1090.cpp(27,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++_workspace\patPractice\pta1090.cpp(12,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\C++_workspace\patPractice\pta1090.cpp(14,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\C++_workspace\patPractice\pta1090.cpp(20,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\C++_workspace\patPractice\pta1090.cpp(23,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pta1092.cpp
+  pta1093.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\C++_workspace\patPractice\pta1093.cpp(12,20): warning C4018: “<”: 有符号/无符号不匹配
+  pta1094.cpp
+  pta1095.cpp
+  正在生成代码...
+D:\C++_workspace\patPractice\pta1093.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
