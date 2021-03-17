@@ -124,8 +124,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="pta1003.cpp" />
+    <ClCompile Include="pta1005.cpp" />
+    <ClCompile Include="pta1012.cpp" />
+    <ClCompile Include="pta1013.cpp" />
     <ClCompile Include="pta1014.cpp" />
     <ClCompile Include="pta1015.cpp" />
+    <ClCompile Include="pta1017.cpp" />
     <ClCompile Include="pta1018.cpp" />
     <ClCompile Include="pta1020.cpp" />
     <ClCompile Include="pta1024.cpp" />

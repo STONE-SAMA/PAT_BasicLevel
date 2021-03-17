@@ -162,5 +162,17 @@
     <ClCompile Include="pta1095.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pta1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1013.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pta1017.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
